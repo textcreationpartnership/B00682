@@ -1,0 +1,675 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane deeclaratioun [sic] of the Lordis iust quarrell</title>
+            <author>Sempill, Robert, 1530?-1595.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1567</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00682</idno>
+            <idno type="STC">STC 22192</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[569]</idno>
+            <idno type="EEBO-CITATION">99892911</idno>
+            <idno type="PROQUEST">ocm99892911</idno>
+            <idno type="VID">183649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183649)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[440])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane deeclaratioun [sic] of the Lordis iust quarrell</title>
+                  <author>Sempill, Robert, 1530?-1595.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Imprentit at Edinburgh by Robert Lekpreuik,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>anno Do. 1567.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Sempill.</note>
+                  <note>Verse - "... long ago as I allowe ...,".</note>
+                  <note>Printed in three columns.</note>
+                  <note>Imperfect: trimmed, stained, and tightly bound with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, Scots --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <body>
+         <div type="poem">
+            <pb n="569" facs="tcp:183649:1" rendition="simple:additions"/>
+            <head>❀ ane deeclaratioun of the Lordis iuſt quarrell</head>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t long ago as I allone did walk,</l>
+               <l>Intill ane place was pleſand to behauld:</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leirnit men in priuie I hard talk,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch of thame his taill in ordoure tauld</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>derſtuid thair ſentence quhat thay wald,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cht it guid to put in memorie</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ir Names als as efter ȝe ſall ſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e taine him ſelf Philandrius did call,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>a in vertew and manheid tuik delyee:</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tother feirfull ſemt to be at all,</l>
+               <l>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eilus he did his Name indyte</l>
+               <l>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> thingis they did togidder flyte,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t I tuik tent aboue all vther thing</l>
+               <l>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n thay ſpak of this Realme and gouerning.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>deilus ſayis it dois merwell me,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hat cauſit hes the Lordis of Scotland</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on ane enterpryſe of ſic folie,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ine the Quene and aganis hir huſband:</l>
+               <l>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>t thay not weill ilk ane in his awin land</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quyetnes leifit in peace and reſt,</l>
+               <l>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing his awin as him had lykit beſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o quhome Philandrius did anſwer mak,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaid that men war not deuyſt onlie:</l>
+               <l>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ut all cair thair awin pleſure to tak,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t to foirſe the weill of that countrie</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>laris of quhilk, the Lord will that thay be</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hilk charge (he ſayis) thay ca<g ref="char:cmbAbbrStroke">̄</g>not weill refuſe,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hamefullie thair office thay abuſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehalding than the actis execrabill,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat in this countrie hes commitit bene,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ame the lack the bruit abhominabill:</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t ſaikles men with ſorow did ſuſtene.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> priuat hart it mycht prik vp with tene,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſeik redres and mend that cairfull caice</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mair the nobillis of the Royall raice.</l>
+            </lg>
+            <lg>
+               <l>To ſe the King fyrſt lychtlit ſchamefully,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd not chereiſt in chalmer nor in hall:</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e murdreiſt downe cauſeles and crewelly,</l>
+               <l>Off that treſoun na tryall taine at all.</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y whome the bruit did trewlie traytouris call,</l>
+               <l>Greiteſt in Co<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t and chereiſt all thair beſt,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lordis hart cuid lui<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on this and leſt<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>To ſe ane monſtuire full of fylthynes,</l>
+               <l>Abone the reſt heich mountit vp in gloir</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h Prince and Realme and all power poſſes.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne gled ay gaipand guid men to deuoir,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hat hart sa hard bot this ſycht ſould mak ſoir,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uha rychtly than dar thir men reprehend:</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greit miſcheif quha menis till amend.</l>
+            </lg>
+            <lg>
+               <l>To ſe the Quene furth rydand on the plaine,</l>
+               <l>Reft lyke ane huire with ruffians ſhamefullie,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thocht that ſum think that was bot ane traine,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r awin wryting dois contrar teſtifie,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rance Ingland and mony ſtrange cuntrie:</l>
+               <l>Pleinȝeand that ſyd was rauyſſit by hir will</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>at Nobill hart mycht ſe this and ſit ſtill.</l>
+            </lg>
+            <lg>
+               <l>To reif, to murther and wyle licherie,</l>
+               <l>The fourt for fault is eikit euin fra hand:</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> teſtifie that Law and honeſtie</l>
+               <l>With ſic ribaldis can not ring in ane land<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Quene is cuplit with ane wyffis huſband</l>
+               <l>And farther ȝit he quha the King did ſack,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> law the Quene dar into mariage tak.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>7s;yde all this thair durſt na vertuous wycht,</l>
+               <l>In preſence of that proude tyran appeir:</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dy boucheouris and throtcutters on nycht,</l>
+               <l>War only hard, and only had the ſteir.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nobill men durſt not the Court cum neir,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he royall hous refuge to honeſt men<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s maid ane bordell and ane theifis den.</l>
+            </lg>
+            <lg>
+               <l>Our prettie Prince the peirle of all this land,</l>
+               <l>With duilfull d<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d thay ſocht for to deuoir:</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t riche relick and threſour of Scotland,</l>
+               <l>Deſtroy as thay his father did befoir.</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hat duilfull mynde mycht dawlie this deploir,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſic dainger to ſe that innocent</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our releif quhome God had till vs ſent.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hat Nobill hart could langer this induire?</l>
+               <l>Quhat commoun breiſt did not for ſorrow burſt?</l>
+               <l>Quhat godly man of him ſelf could be ſuire?</l>
+               <l>Quhat ſtranger thocht bot this cuntrie was curſt</l>
+               <l>Quhat preachour this repreif, I pray ȝow durſt?</l>
+               <l>Quhat chaiſt woman wyſſit not to be deid,</l>
+               <l>To ſe ſic vice ſet vp in vertewis ſteid.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Gif it was ſa, than quha can worthylie</l>
+               <l>Exalt and prais, and magnifie the Name</l>
+               <l>Off thir Nobillis quha durſt couragiouſlie</l>
+               <l>Hazaird thame ſelf to ſaif vs all fra ſhame.</l>
+               <l>Thair laude, thair honour, and tryumphand fame,</l>
+               <l>Salbe diſperſt in diſpyte of Inuy,</l>
+               <l>Quhen faceles fuillis ſall <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t be ſettin by.</l>
+            </lg>
+            <lg>
+               <l>¶ Erid<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lus than <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> maid againe,</l>
+               <l>Thy talk he ſayis is tr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth and veritie:</l>
+               <l>Bot ȝit ſum douts thair is of quhilk rycht faine,</l>
+               <l>Gif laſer lat I wold reſoluit be,</l>
+               <l>And fyrſt tuiching the Quenis libertie:</l>
+               <l>For mony thinkis thir Barronis ar to bauld,</l>
+               <l>In ſtrait keping a Princes for to hauld.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Philandrius to anſwer than him ſped,</l>
+               <l>And this he ſaid Eridielus vntill:</l>
+               <l>Gif that a freind with fayis away war led</l>
+               <l>Be wickit craft ſyne tyſtit war till ill.</l>
+               <l>Thocht he couet in that ſtait to byde ſtill,</l>
+               <l>Ȝit in that caice his freindis of dewtie</l>
+               <l>Sould wis his weill and ſeik his libertie.</l>
+            </lg>
+            <lg>
+               <l>¶ And gif his fantaſie was ſo far infectit,</l>
+               <l>That to the treuth he could not bent his eir:</l>
+               <l>He ſould not be in foly ȝit neglectit</l>
+               <l>Bot fairnes than ſould mixit be with feir,</l>
+               <l>And gif all this could him na wyſedome leir</l>
+               <l>Than acht he be of all puiſſance denude,</l>
+               <l>To do na euill gif he could do na gude.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Than ſen that bowdin bludy beiſt Bothwell,</l>
+               <l>Hes trayterouſly in myrk put downe our King:</l>
+               <l>His wyfe the Quene ſyne rauyſſit to him ſell,</l>
+               <l>In fylthie luſt throw cullour of wedding.</l>
+               <l>Thocht ſho be witcheit wald in ruttery ring,</l>
+               <l>The Nobillis ſould nether of thir enduire,</l>
+               <l>That lowne to leif, nor hir to be his huire.</l>
+            </lg>
+            <lg>
+               <l>¶ And gif the poyſone in hir hart be ſonkin,</l>
+               <l>That ſho will not conſent he puneiſt be:</l>
+               <l>Gif with his fylthie luſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dronkin,</l>
+               <l>That ſho forȝet office <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> honeſtie</l>
+               <l>Than man hir Nobillis of neceſſitie,</l>
+               <l>Cut of hir force quhill treſoun be reuengeit,</l>
+               <l>And this confuſioun in ane ordour changeit.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> In priuat perſounis ſayis Eridielus,</l>
+               <l>I vnderſtand thy taill is trew in deid:</l>
+               <l>Bot in Princes it is mair perrillous,</l>
+               <l>And few examplis thairof can I reid.</l>
+               <l>And in ſic caice the ſubiectis all had neid,</l>
+               <l>Haill to concur with ane authoritie</l>
+               <l>Sic concurrence in Scotland naue I ſe.</l>
+            </lg>
+            <lg>
+               <l>¶ Philandrius ſayis brother than conſidder,</l>
+               <l>How fyrſt began all dominatiounis:</l>
+               <l>Quhen ruid pepill aſſemblit thame togidder</l>
+               <l>And maid thair Kingis be creatiounis<g ref="char:punc">▪</g>
+               </l>
+               <l>In votis than war variatiounis,</l>
+               <l>I trow rycht few was choſin be the haill,</l>
+               <l>Bot he was King quhais pairtie did preuaill.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Wycht ſa gif Princes ſa thame ſelf abuſe,</l>
+               <l>That of force ſubiectis man put to thair hand:</l>
+               <l>Guid men ſould not than to reforme refuſe,</l>
+               <l>Thocht all at ainis concur not on thair band.</l>
+               <l>Naimly gif Iuſtice on thair partie ſtand,</l>
+               <l>And maiſt conſent giſ quha wald rackin rycht,</l>
+               <l>Sen God hes gein to thame baith ſtre<g ref="char:cmbAbbrStroke">̄</g>th &amp; mycht.</l>
+            </lg>
+            <lg>
+               <l>Ȝea thocht it war ane King for to depoſe,</l>
+               <l>For certaine crymi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I think the ſubiectis may,</l>
+               <l>Or fylthy faultouris faſt in priſone cloſe,</l>
+               <l>Rather than lat ane haill countrie decay.</l>
+               <l>Thay ſould nor ſturre thocht ſum men wald ſay nay</l>
+               <l>To ane purpoſe the haill will neuer conclude,</l>
+               <l>Thay haue aneuch, hes force and quarrell gude.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> May thay not put ane ordoure to the heid:</l>
+               <l>Quha in beginning did the heid vp mak</l>
+               <l>May thay not ſet ane better in the ſteid,</l>
+               <l>Gif it fra vice can not be callit bak.</l>
+               <l>Les this be done Realmes will ga to wrak,</l>
+               <l>Namely quhen that the cryme is ſa patent</l>
+               <l>That nouther miſters Iuge nor argument.</l>
+            </lg>
+            <lg>
+               <l>¶ As gif ane King his pepill wald betray,</l>
+               <l>And him and thame baith bring to ſeruitude<g ref="char:punc">▪</g>
+               </l>
+               <l>He ſould in this reformit be I ſay,</l>
+               <l>Naimly be Nobillis and be men of gude.</l>
+               <l>The Baliols cauſe conſiddir how it ſtude,</l>
+               <l>Quhat rycht had Robert Bruice him to expell?</l>
+               <l>Becauſe to Ingland he ſubiect him ſell.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> And now gif I durſt ſpeik without reſpect,</l>
+               <l>To huirmaiſters, to murderers of Kingis:</l>
+               <l>To throtcutters our Realme was maid ſubiect,</l>
+               <l>Quha in thair malice proudely ȝit malingis.</l>
+               <l>Lat Nobill hartis conſidder <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll thir thingis,</l>
+               <l>Thay ſall weill find that this puire natioun,</l>
+               <l>Greit miſter had of reformatioun.</l>
+            </lg>
+            <lg>
+               <l>¶ Sic fylthie luſte in Sardanapalus,</l>
+               <l>Sic crueltie in Nero did not ring:</l>
+               <l>Sic brutiſhe lyfe in Heliogabalus</l>
+               <l>Sic traytour mynde to ſlay his Lord and King.</l>
+               <l>In feinȝeit Phocas breiſt did neuer ſpring:</l>
+               <l>Sic beiſtly bowgrie Sodome hes not ſene</l>
+               <l>As rang in him quha rewlit Realme and Quene.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> And ſould the Nobill Barronis of this land</l>
+               <l>In boilis lurk and this miſcheif behauld,</l>
+               <l>Quhair is the wittis wont to reule Scotland:</l>
+               <l>Go reid the buik, repeit the ſtoryis auld,</l>
+               <l>King Euenus was keipit in ſtrang hauld</l>
+               <l>And deit thair Conarus was incloſit,</l>
+               <l>Firſt being dewlie for his fault depoſit.</l>
+            </lg>
+            <lg>
+               <l>¶ For wickit lyfe impriſont was Ferquhaird,</l>
+               <l>Quha ſlew him ſelf of proude melancolie,</l>
+               <l>Donald the fyft he gat the ſame reuaird:</l>
+               <l>And Ethus did in priſone priuate die.</l>
+               <l>And gif ȝe liſt to go fra this countrie,</l>
+               <l>In euerie land examplis dois abound</l>
+               <l>Gif thay be ſocht thay may be eithlie found.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> For ſic miſordour proude Tarquinius</l>
+               <l>Was the laſt King that euer did ring in Rome,</l>
+               <l>For lyke crymes the tyran Claudius:</l>
+               <l>Loſit his ſtait and gat deid for his dome,</l>
+               <l>To ſpeik of Nero now I haue na to me</l>
+               <l>Off Commodus, Caius and Caracall,</l>
+               <l>It war to lang for to diſcriue the fall.</l>
+            </lg>
+            <lg>
+               <l>¶ Quhat ſorow into Naples than was ſene,</l>
+               <l>Quha knawis the ſtory cleirly thair may reid,</l>
+               <l>Quhen Charlis dochter Ieane that catiue Quene:</l>
+               <l>Baith honeſtie forȝet and womanheid.</l>
+               <l>Hir huſband and hir couſing put to deid,</l>
+               <l>Syne with his Burrio band ane new mariage,</l>
+               <l>Allace this ſample ſeruis ouer weill our age.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> And ȝit the Lord he leit hir not eſchaip,</l>
+               <l>Bot of hir tuik ane puniſhement conding:</l>
+               <l>Quha fyrſt hir huſband hangit in ane raip,</l>
+               <l>The murtherer ſyne in his bed did bring.</l>
+               <l>God maid hir paine aggre with hir guyding,</l>
+               <l>An bedfoly to ſic miſcheif hir led</l>
+               <l>Euin ſo ſho endit ſmorit with a bed.</l>
+            </lg>
+            <lg>
+               <l>¶ Thou to conclude thir Nobillis dois bot rycht,</l>
+               <l>Gif thay the Quene keip ſtill in ſicker gaird,</l>
+               <l>Vntill that coward Kingſlayar on nycht</l>
+               <l>For his demeritis get ane iuſt rewaird<g ref="char:punc">▪</g>
+               </l>
+               <l>Than lat thame all concur baith Lord and Laird,</l>
+               <l>Thair Realme and Quene with guid couſall to guyde</l>
+               <l>Settand all priuate profit far a ſyde</l>
+            </lg>
+            <lg>
+               <l>¶ Gif thay do this than dar I ſay ane thing,</l>
+               <l>Thair laude and fame ſall moue aboue the ſkyis,</l>
+               <l>Thair heich renoune ſall in all Regioun ring:</l>
+               <l>Thair name ſall gang quhair euer the Sone do ryſe,</l>
+               <l>Thay ſalbe repuite hardy wycht and wyſe,</l>
+               <l>In all ſtoryis thay ſalbe cleirly kend,</l>
+               <l>The Leuing Lord bring thame to this gude end.</l>
+            </lg>
+            <lg>
+               <l>¶ As this Philandrius did frely talk,</l>
+               <l>The tother pairt Erideilus be name,</l>
+               <l>Rais vp and quyetlie away did ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alk</l>
+               <l>And as me thocht he waxit reid for ſchame,</l>
+               <l>Quhilk quhen I ſaw I rais vp and come hame</l>
+               <l>And put in wryt thair diſputatioun,</l>
+               <l>As ȝe haue hard be this narratioun.</l>
+            </lg>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <p>¶ Imprentit at Edinburgh be Robert Le<gap reason="illegible" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>. ANNO DO. 1567.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
